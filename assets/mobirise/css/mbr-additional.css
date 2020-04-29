@@ -1384,7 +1384,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rXzVYnjDfo {
-  padding-top: 75px;
+  padding-top: 90px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
@@ -1401,7 +1401,7 @@ section.lazy-placeholder:after {
   color: #ff831e;
 }
 .cid-rXzvoAwWda {
-  padding-top: 45px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
@@ -1441,7 +1441,7 @@ section.lazy-placeholder:after {
   transition: box-shadow 0.3s;
 }
 .cid-rXzvqlBILF {
-  padding-top: 45px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
@@ -1481,8 +1481,8 @@ section.lazy-placeholder:after {
   transition: box-shadow 0.3s;
 }
 .cid-rXyt0suthR {
-  padding-top: 60px;
-  padding-bottom: 0px;
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
 .cid-rXyt0suthR .mbr-section-subtitle {
@@ -1561,9 +1561,12 @@ section.lazy-placeholder:after {
 .cid-rXyt0suthR .mbr-section-title {
   color: #19277f;
 }
+.cid-rXyt0suthR H4 {
+  color: #232323;
+}
 .cid-rXyrTmReox {
   padding-top: 15px;
-  padding-bottom: 30px;
+  padding-bottom: 45px;
   background-color: #efefef;
 }
 .cid-rXyrTmReox .mbr-slider .carousel-control {
