@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Projeto MUSICALidade",
-    "currentPage": "index.html",
+    "currentPage": "apoiador.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3329,7 +3329,7 @@
     },
     "apoiador.html": {
       "settings": {
-        "title": "Grande Doação",
+        "title": "Apoio | Patrocínio",
         "meta_descr": "Aguardamos suas respostas.",
         "header_custom": "",
         "footer_custom": "",
